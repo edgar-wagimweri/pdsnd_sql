@@ -10,8 +10,8 @@ Use SQL to analyze and perform statistical analysis on movie rental data. The st
 
 ### Files used
 The files needed to successfully execute the project are:
-1. PostgreSQL
-2. DVD Rental Database
+1. DVD Rental Database
+2. Excel Worksheet
 
 ### Software Requirements
 Scripts were written in SQL using the PostgreSQL program.
