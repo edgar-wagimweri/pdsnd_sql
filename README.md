@@ -20,5 +20,6 @@ Scripts were written in SQL using the PostgreSQL program.
 ### Credits
 Special thanks to the Udacity classroom and mentors who provided guidance. Due credit also goes out to the various communities on Stack Overflow and Python Documentation.
 
-
+### Copyright
+Feel free to use these codes as you see fit. I only ask that you attribute my contribution
 # pdsnd_sql
